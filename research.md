@@ -6,29 +6,26 @@ permalink: /research/
 
 We develop interpretability methods to understand how AI systems work
 internally, and leverage these insights to ensure safe behavior when AI agents
-interact with the world and each other. Our research spans five themes:
+interact with the world and each other. Our research spans four themes:
 
 Interpretability & Transparency. What do models know, and how do they represent
 it? We develop methods to understand the internal structure of neural networks,
 from localizing culture-specific neurons to mechanistic analysis of model
 behavior.
 
-Control & Containment. How do we keep AI systems within safe boundaries? We
-investigate principled steering techniques, guardrails, and intervention
-methods that remain effective as systems grow in autonomy.
+Control & Multi-Agent Safety. How do we keep AI systems within safe boundaries,
+and what happens when they interact? We investigate steering techniques,
+guardrails, and failure modes in multi-agent systems.
 
-Agentic & Multi-Agent Safety. What happens when AI systems interact? We study
-coordination, cooperation, and failure modes in multi-agent systems, bridging
-the gap between multi-agent reinforcement learning and LLM-based agents.
+Robustness & Adaptation. How do models behave when the data changes? We study
+continual learning, open-world classification, and out-of-distribution
+detection under evolving data conditions.
 
-Uncertainty & Risk Quantification. How confident should we be in a system's
-outputs? We work on quantifying and communicating uncertainty to support
-reliable decision-making.
-
-Efficient & Open AI. Transparency requires access. We develop methods to reduce
-the computational cost of training and deploying AI systems, enabling safety
-research on open models that can actually be inspected.
-
+Sustainable & Accessible AI. AI safety research requires models we can actually
+inspect, and the planet requires that we train them responsibly. We develop
+methods to reduce the computational and environmental cost of AI systems,
+democratizing access to models that can be opened up for transparency and
+safety research.
 
 ## Interpretability & Transparency
 
@@ -80,7 +77,7 @@ research on open models that can actually be inspected.
     paper_url="https://aclanthology.org/2024.cmcl-1.15/"
 %}
 
-## Control & Containment
+## Control & Multi-Agent Safety
 
 {% include publication.html
     title="Guarded Query Routing for Large Language Models"
@@ -92,7 +89,6 @@ research on open models that can actually be inspected.
     code_url="https://github.com/williambrach/gqr"
 %}
 
-## Agentic & Multi-Agent Safety
 
 {% include publication.html
     title="Super-additive Cooperation in Language Model Agents"
@@ -103,7 +99,7 @@ research on open models that can actually be inspected.
     project_url="https://github.com/pippot/Superadditive-cooperation-LLMs"
 %}
 
-## Sustainability & Resource Impact
+## Sustainable & Accessible AI
 
 {% include publication.html
     title="DeToNATION: Decoupled Torch Network-Aware Training on Interlinked Online Nodes"
@@ -132,7 +128,7 @@ research on open models that can actually be inspected.
 %}
 
 
-## Uncertainty & Risk Quantification
+## Robustness & Adaptation
 
 {% include publication.html
     title="POWN: Prototypical Open-world Node Classification"
