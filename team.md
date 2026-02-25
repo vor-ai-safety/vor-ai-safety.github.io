@@ -6,8 +6,6 @@ permalink: /team/
 
 *The Vor AI Safety lab is currently being established. This page will be updated as soon as new members join.*
 
-# Core Team
-
 ## Lukas Galke Poech
 
 *Assistant Professor at SDU, Head of the Group*
