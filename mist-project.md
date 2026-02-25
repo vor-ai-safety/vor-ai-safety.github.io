@@ -16,8 +16,8 @@ MIST develops scalable methods for mechanistic interpretability to understand th
 
 **Aim 2: Mechanisms of LLM Agents.** We identify the causal mechanisms underlying key agent capabilities: instruction following, tool use, planning, reasoning, and multi-agent communication. We test whether these mechanisms are universal across models, languages, and modalities.
 
-**Aim 3: Steering and Safety in Multi Agent Systems.** We build controlled multi agent environments to study how interventions on individual agents propagate through the system. Through red teaming, including the deliberate introduction of misaligned or malfunctioning agents, we stress test system robustness. Our goal is to develop procedures for issuing statistical safety certificates to LLM agents that demonstrate robust behavior under these controlled perturbations.
+**Aim 3: Steering and Safety in Multi Agent Systems.** We build controlled multi agent environments to study how interventions on individual agents propagate through the system. Through red teaming, including the deliberate introduction of misaligned or malfunctioning agents, we stress test system robustness. Our goal is to develop procedures for issuing safety certificates to LLM agents that demonstrate robust behavior under these controlled perturbations.
 
 ## Funding
 
-MIST is funded by the Novo Nordisk Foundation through a RECRUIT grant for international recruitment (2026–2031).
+MIST is funded by the Novo Nordisk Foundation through a RECRUIT grant for international recruitment (2026–2030).
