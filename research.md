@@ -8,20 +8,20 @@ We develop interpretability methods to understand how AI systems work
 internally, and leverage these insights to ensure safe behavior when AI agents
 interact with the world and each other. Our research spans four themes:
 
-Interpretability & Transparency. What do models know, and how do they represent
+**Interpretability & Transparency**. What do models know, and how do they represent
 it? We develop methods to understand the internal structure of neural networks,
 from localizing culture-specific neurons to mechanistic analysis of model
 behavior.
 
-Control & Multi-Agent Safety. How do we keep AI systems within safe boundaries,
+**Control & Multi-Agent Safety**. How do we keep AI systems within safe boundaries,
 and what happens when they interact? We investigate steering techniques,
 guardrails, and failure modes in multi-agent systems.
 
-Robustness & Adaptation. How do models behave when the data changes? We study
+**Robustness & Adaptation**. How do models behave when the data changes? We study
 continual learning, open-world classification, and out-of-distribution
 detection under evolving data conditions.
 
-Sustainable & Accessible AI. AI safety research requires models we can actually
+**Sustainable & Accessible AI**. AI safety research requires models we can actually
 inspect, and the planet requires that we train them responsibly. We develop
 methods to reduce the computational and environmental cost of AI systems,
 democratizing access to models that can be opened up for transparency and
