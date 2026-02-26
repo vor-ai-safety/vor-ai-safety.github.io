@@ -22,7 +22,7 @@ description: >
   We develop interpretability methods to understand how AI systems work internally, and leverage these insights to ensure safe behavior when AI agents interact with the world and each other.
 
 description_extra: >
-  *Named after Vǫr, the Norse goddess of awareness, from whom nothing can be hidden.
+  *Named after the Norse goddess of awareness, from whom nothing can be hidden.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vor-ai-safety.github.io" # the base hostname & protocol for your site, e.g. http://example.com
